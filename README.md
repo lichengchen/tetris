@@ -22,6 +22,6 @@
 存档：直接在txt中打印背景数组、当前块和下一个块的id和锚点、速度等用户设置。
 
 ## 下载链接
-[game.rar]https://github.com/lichengchen/tetris/releases/download/1.0/game.rar
+[game.rar](https://github.com/lichengchen/tetris/releases/download/1.0/game.rar)
 
 解压可玩
